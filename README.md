@@ -1,4 +1,5 @@
 # WindowDemo
+macOS , swiftUI
 
 When your new at coding for macOS ( not using catalyst ). there will be a lot of serching for help online, and not a hole lot to be found.
 
