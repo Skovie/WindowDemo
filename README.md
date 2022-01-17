@@ -1,5 +1,8 @@
 # WindowDemo
 macOS , swiftUI
+[![swiftUI](https://img.shields.io/badge/-swiftUI-blue)](https://developer.apple.com/documentation/swiftui)
+[![Swift Version][swift-image]][swift-url]
+[![Twitter](https://img.shields.io/badge/Twitter-@simform-blue.svg?style=flat)](https://twitter.com/skov41)
 
 When your new at coding for macOS ( not using catalyst ). there will be a lot of serching for help online, and not a hole lot to be found.
 
