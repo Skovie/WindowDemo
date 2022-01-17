@@ -1,7 +1,7 @@
 # WindowDemo
 
 [![swiftUI](https://img.shields.io/badge/-swiftUI-blue)](https://developer.apple.com/documentation/swiftui)
-![macOS](https://img.shields.io/badge/os-macOS%2010.15%2B-green.svg?style=flat)
+![macOS](https://img.shields.io/badge/os-macOS%2012.1%2B-green.svg?style=flat)
 ![Swift4](https://img.shields.io/badge/swift-5.0-green.svg?style=flat)
 [![Twitter](https://img.shields.io/badge/Twitter-@skov41-blue.svg?style=flat)](https://twitter.com/skov41)
 
